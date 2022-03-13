@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-### This project aims assist Steve and his parents in Daqo's stock (DQ) and whether they should invest. We examined stock data to find the total daily volume, or shares traded throughout the day, and yearly return for each stock, or difference in price from beginning to end of year. Data was analyzed for the years 2017 and 2018.
+### This project aims to assist Steve and his parents in Daqo's stock (DQ) and whether they should invest. We examined stock data to find the total daily volume, or shares traded throughout the day, and yearly return for each stock, or difference in price from beginning to end of year. Data was analyzed for the years 2017 and 2018.
 
 ## Results
 
