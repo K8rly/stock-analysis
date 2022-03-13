@@ -10,9 +10,9 @@
 
 ### After adjusting the original script for this analysis, our run time was much lower at 0.11 seconds for year 2017 and 0.01 seconds for year 2018. The original scripts took almost a full second to run.
 
-![2017](Resources/2017.png)
+![2017](Resources/VBA_Challenge_2017.png)
 
-![2018](Resources/2018.png)
+![2018](Resources/VBA_Challenge_2018.png
 
 ## Summary
 
