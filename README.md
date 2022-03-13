@@ -6,13 +6,13 @@
 
 ## Results
 
-### Performance of all stocks is shown below. In 2017 DQ did perform much better than in 2018 with a return percentage of 199.4% versus -62.6% respectively. It seems all stocks but TERP had a positive return in 2017. in 2018 only two stocks, ENPH and RUN had a positive return.
+### Performance of all stocks is shown below. In 2017 DQ did perform much better than in 2018 with a return percentage of 199.4% versus -62.6% respectively. It seems all stocks but TERP, had a positive return in 2017. in 2018 only two stocks, ENPH and RUN had a positive return.
 
 ### After adjusting the original script for this analysis, our run time was much lower at 0.11 seconds for year 2017 and 0.01 seconds for year 2018. The original scripts took almost a full second to run.
 
 ![2017](Resources/VBA_Challenge_2017.png)
 
-![2018](Resources/VBA_Challenge_2018.png
+![2018](Resources/VBA_Challenge_2018.png)
 
 ## Summary
 
