@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-### This project aims assist Steve and his parents in Daqo's stock (DQ) and whether they should invest. We examined stock data to find the total daily volume, or shares traded throughout the day, and yearly return for each stock, or difference in price from beginning to end of year. Data was analyzed for the years 2017 and 2018.
+### This project aims to assist Steve and his parents in Daqo's stock (DQ) and whether they should invest. We examined stock data to find the total daily volume, or shares traded throughout the day, and yearly return for each stock, or difference in price from beginning to end of year. Data was analyzed for the years 2017 and 2018.
 
 ## Results
 
@@ -14,9 +14,9 @@
 
 ![2018](Resources/2018.png)
 
-Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+## Summary
 
+### Upon refactoring code we see some advantages and disadvantages. One advantage working with the original code from the stock analysis worksheets was a more efficient script. Another benefit was that refactoring yielded a faster execution time. This could be very useful when analyzing larger datasets. 
 
-Summary: In a summary statement, address the following questions.
-What are the advantages or disadvantages of refactoring code?
-How do these pros and cons apply to refactoring the original VBA script?
+### Disadvantages to refactoring include having to debug the code and ensure it provides the same function as the original. In the stock analysis, trying to yield the same results in the refactored code proved challenging even though the changes were minor.
+
